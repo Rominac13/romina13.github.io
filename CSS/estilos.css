@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@300&display=swap');
+
+#boton1{
+    font-family: 'Labrada', serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(236, 178, 178 );
+    border-radius: 10px;
+    background-color: rgb(222, 227, 231);
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+#boton1:hover{
+    background-color: transparent;
+    border: 2px solid rgb(222, 227, 231);}
+#boton2{
+    font-family: 'Labrada', serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(236, 178, 178 );
+    border-radius: 10px;
+    background-color: rgb(222, 227, 231);
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+#boton2:hover{
+        background-color: transparent;
+        border: 2px solid rgb(222, 227, 231);}
+#boton3{
+    font-family: 'Labrada', serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(236, 178, 178 );
+    border-radius: 10px;
+    background-color: rgb(222, 227, 231);
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+#boton3:hover{
+    background-color: transparent;
+    border: 2px solid rgb(222, 227, 231);}
+        
+h1 {
+    font-family: 'Labrada', serif;
+    background-color:rgb(222, 227, 231);
+    border: 2px solid rgb(236, 178, 178 );
+    color: black;
+    border-radius: 30px;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Labrada', serif;
+    background-color:rgb(236, 178, 178);
+    border: 2px solid rgb(222, 227, 231 );
+    color: black; 
+    border-radius: 30px;
+    text-align: center;
+    
+}
+h3{
+    font-family: 'Labrada', serif;
+    background-color:rgb(236, 178, 178);
+    border: 2px solid rgb(222, 227, 231 );
+    color: black; 
+    border-radius: 30px;
+    text-align: center;
+}
+ol{
+    font-family: 'Labrada', serif;
+    justify-content: center;
+    list-style-type:square;
+}
+a{
+    font-family: 'Labrada', serif;
+    color: rgb(167, 8, 8);
+    margin-left: 600px;
+
+    
+}
+.imagenperfil{
+        text-align: center;
+        padding: 20px;
+        border-radius: 50%;
+        
+    
+}
+.datos{
+    font-family: 'Labrada', serif;
+    display: flex;
+    justify-content: center;
+}
+.iconos{
+    display: flex;
+    justify-content:center ;
+    
+}
+.icon1{
+    margin-left: 20px;
+    margin-right: 80px; 
+    border-radius: 70%;
+    height: 80px;
+    
+}
+.icon2{
+    margin-right: 80px; 
+    border-radius: 70%;
+    height: 80px;
+    
+}
+.icon3{
+    margin-right: 80px; 
+    border-radius: 70%;
+    height: 80px;
+}
+.icon4{
+    height: 80px;
+    border-radius: 70%;
+    
+}
+.mail{
+    margin-left: 30px;
+    margin-right: 50px;
+    text-align:left
+}
+.direccion{
+    margin-left: 10px;
+    margin-right: 50px;
+    text-align: center
+}
+.telefono{
+    margin-left: 30px;
+    margin-right: 50px;
+    text-align: center
+}
+.fecha{
+    margin-left: 20px;
+    margin-right: 50px;
+    text-align:right
+}
+.fondo{
+    background-image: url(fondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
